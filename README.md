@@ -51,6 +51,10 @@ functional. See the [project report](./AutoAlert_Project_Report.docx) for
 full technical documentation, including challenges faced and future scope
 (WiFi self-provisioning, iOS support, remote battery monitoring, and more).
 
+##Device
+
+If you need details, firmaware code, hardware, connecting details, partnerships... pls send me a email.
+
 ## Images
 
 <img width="720" height="1650" alt="Image" src="https://github.com/user-attachments/assets/4a312f39-7e52-47b9-8c70-e206937e3b00" />
